@@ -1,3 +1,5 @@
 db.sqlite3
 settings-staging.py
 settings-prod.py
+db_data
+.db_data
