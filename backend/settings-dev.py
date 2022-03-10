@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'tipstream',
         'USER': 'tipstream',
-        'PASSWORD': 'tipstream',
+        'PASSWORD': '-',
         'HOST': 'db',
         'PORT': '5432',
     }
